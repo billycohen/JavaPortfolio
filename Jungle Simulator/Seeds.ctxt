@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Seeds
+comment0.text=\n\ Write\ a\ description\ of\ class\ Seeds\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=randomAge\ field\ location
+comment1.target=Seeds(boolean,\ Field,\ Location)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Seeds\n
+comment10.params=
+comment10.target=boolean\ canBreed()
+comment2.params=newSeeds
+comment2.target=void\ act(java.util.List)
+comment3.params=
+comment3.target=boolean\ isHibernating()
+comment4.params=
+comment4.target=void\ incrementAge()
+comment5.params=
+comment5.target=void\ setDead()
+comment6.params=
+comment6.target=void\ setDeadAge()
+comment7.params=newPlant
+comment7.target=void\ giveBirth(java.util.List)
+comment8.params=
+comment8.target=int\ getSpeed()
+comment9.params=
+comment9.target=int\ breed()
+numComments=11

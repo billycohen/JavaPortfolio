@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Malaria
+comment0.text=\n\ Write\ a\ description\ of\ class\ Malaria\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Malaria()
+comment2.params=
+comment2.target=double\ getDeathRate()
+comment3.params=
+comment3.target=double\ getSpreadRate()
+numComments=4
