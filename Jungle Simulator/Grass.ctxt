@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Grass
+comment1.params=randomAge\ field\ location
+comment1.target=Grass(boolean,\ Field,\ Location)
+comment10.params=
+comment10.target=boolean\ canBreed()
+comment2.params=newGrass
+comment2.target=void\ act(java.util.List)
+comment3.params=
+comment3.target=boolean\ isHibernating()
+comment4.params=
+comment4.target=void\ incrementAge()
+comment5.params=
+comment5.target=void\ setDead()
+comment6.params=
+comment6.target=void\ setDeadAge()
+comment7.params=newPlant
+comment7.target=void\ giveBirth(java.util.List)
+comment8.params=
+comment8.target=int\ breed()
+comment9.params=
+comment9.target=int\ getSpeed()
+numComments=11

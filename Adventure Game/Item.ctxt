@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\n\ This\ class\ handles\ all\ of\ the\ items\ in\ the\ game.\n\ Items\ are\ assigned\ a\ description,\ weight\ and\ type.\n\ The\ weight\ is\ designed\ to\ restrict\ the\ amount\ of\ items\ the\ player\ can\ carry.\n\ The\ type\ of\ item\ determines\ what\ is\ is\ used\ for.\n\ Items\ with\ the\ type\ "weapon"\ can\ be\ equipped\ by\ the\ player\ in\ a\ weapon\ slot\n\ which\ increases\ the\ amount\ of\ damage\ they\ do\ to\ monsters.\n\ Items\ with\ the\ type\ "head",\ "chest"\ etc\ can\ be\ equipped\ as\ armour\ to\n\ decrease\ the\ amount\ of\ damage\ players\ take\ during\ combat.\n\ There\ are\ also\ other\ "special"\ items\ which\ are\ used\ to\ grant\ the\ player\n\ certain\ effects\ such\ as\ extra\ carrying\ capacity.\n
+comment1.params=itemDesc\ itemWeight\ itemType
+comment1.target=Item(java.lang.String,\ int,\ java.lang.String)
+comment1.text=\n\ Creates\ an\ item\ using\ a\ description\ and\ weight\ which\ are\ provided\ by\ the\ game\ class.\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ This\ method\ returns\ the\ name\ of\ an\ item\n
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment3.text=\n\ This\ method\ returns\ the\ item\ type\ of\ an\ item\n
+comment4.params=
+comment4.target=int\ getWeight()
+comment4.text=\n\ This\ method\ returns\ the\ weight\ of\ an\ item\n
+numComments=5

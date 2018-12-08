@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Object
+comment0.text=\n\ This\ class\ handles\ everything\ to\ do\ with\ objects\n\ Objects\ are\ placed\ into\ rooms,\ and\ they\ may\ contain\ items\n\ The\ player\ can\ search\ through\ the\ items\ using\ the\ search\ command.\n\ The\ player\ can\ then\ take\ items\ from\ the\ object\ using\ the\ get\ command.\n\ The\ player\ can\ also\ give\ items\ to\ objects,\ which\ may\ cause\ a\ special\ effect,\n\ this\ is\ done\ using\ the\ give\ command.\n
+comment1.params=objectName
+comment1.target=Object(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Object\n
+comment2.params=
+comment2.target=java.lang.String\ objectName()
+comment3.params=insert
+comment3.target=void\ placeItem(Item)
+comment4.params=insert
+comment4.target=void\ removeItem(Item)
+comment5.params=search
+comment5.target=void\ searchObject(Object)
+comment6.params=item
+comment6.target=Item\ getItem(java.lang.String)
+numComments=7

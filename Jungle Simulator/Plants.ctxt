@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Plants
+comment0.text=\n\ The\ plants\ class\ is\ a\ subclass\ of\ the\ Organism\ class.\ Plants\ differ\ from\ animals\ in\ that\ they\ do\ not\ move\ around\ the\ map,\ they\ only\ reproduce.\ Plants\ also\n\ have\ a\ length\ attribute\ which\ denotes\ how\ much\ nutritional\ value\ animals\ gain\ from\ eating\ them.\n\n\ @author\ (your\ name\ here)\n\ @version\ (version\ number\ or\ date\ here)\n
+comment1.params=field\ location
+comment1.target=Plants(Field,\ Location)
+comment1.text=\n\ Create\ a\ new\ animal\ at\ location\ in\ field.\n\ \n\ @param\ field\ The\ field\ currently\ occupied.\n\ @param\ location\ The\ location\ within\ the\ field.\n
+comment2.params=
+comment2.target=void\ getPlantSick()
+comment3.params=
+comment3.target=int\ getSpeed()
+comment4.params=newPlants
+comment4.target=void\ act(java.util.List)
+comment4.text=\n\ Make\ this\ animal\ act\ -\ that\ is\:\ make\ it\ do\n\ whatever\ it\ wants/needs\ to\ do.\n\ @param\ newAnimals\ A\ list\ to\ receive\ newly\ born\ animals.\n
+numComments=5
